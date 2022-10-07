@@ -34,9 +34,7 @@ public class Movie {
         this.releaseDate = releaseDate;
     }
 
-    public Movie() {
-
-    }
+    public Movie() {}
 
     public void setId(Long id) {
         this.id = id;
